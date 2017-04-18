@@ -1,1 +1,0 @@
-Everything works except for getProblem(), which I did not finish.
